@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SDCardReaderAssignment</string>
+    <string name="loading_files_toast_msg">Please wait while scanning files</string>
+    <string name="start_scan">StartScan</string>
+    <string name="stop_scan">StopScan</string>
+    <string name="most_frequent_files">Most frequent file extensions</string>
+    <string name="files">Top Files</string>
+    <string name="no_files_found">No files found.</string>
+    <string name="average_sd_card_file_size">Average of Total Files in SDCard:</string>
+    <string name="average_top_10_files">Average of Top 10 files in SDCard:</string>
+</resources>
